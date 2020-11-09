@@ -77,7 +77,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/Dumpert-homescreen" width="375px" alt="homepage>
+<img src="images/Dumpert-homescreen.png" width="375px" alt="homepage>
 
 **Screenshot(s) van de tweede pagina (small screen):**
-Dumpert-navigatie" width="375px" alt="navigatie">
+
+<img src="images/Dumpert-navigatie.png" width="375px" alt="homepage>
