@@ -47,6 +47,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
+
 Luca: - Hoe krijg ik een icoon rechtsboven in beeld / Hoe krijg ik een animatie van tekst over mijn afbeeldingen tijdens het scrollen / Hoe krijg ik een zoekbalk /
 Jenny: - Hoe moet je een slider maken?/ Hoe moet ik de blauwe lijnen die je tussendoor ziet? / Position werkt nog niet, wat doe ik fout?/
 Iconen in nav -> hoe moet ik deze vormgeven en laten werken?
@@ -75,8 +76,8 @@ Daniel: - Hoe maak je een slider met meerdere afbeelding / Hoe krijg ik mn hambu
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="./images/homescreen.png" width="375px" alt="homepage>
+<img src="images/homescreen.png" width="375px" alt="Homepage">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 be
-<img src="./images/second_screen.png" width="375px" alt="homepage>
+<img src="images/second_screen.png" width="375px" alt="Second page">
