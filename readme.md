@@ -48,7 +48,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -samen met je groepje opstellen-
 
-| student 1      | student 2          | student 3    | student 4        |
+| student 1: Daniel | student 2: Luca  | student 3: Jenny | student 4: Jerreau |
 | ---            | ---                | ---          | ---              |
 | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
 | an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
@@ -73,12 +73,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** -surface plane-
 
-**Je opdracht:** -Ik heb gekozen voor de website van Dumpert na te maken, https://www.dumpert.nl/-
+**Je opdracht:** - Ik heb gekozen voor de website van Patta na te maken, https://www.patta.nl/ -
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/Dumpert-homescreen.png" width="375px" alt="homepage>
+<img src="./images/homescreen.png" width="375px" alt="homepage>
 
 **Screenshot(s) van de tweede pagina (small screen):**
-
-<img src="images/Dumpert-navigatie.png" width="375px" alt="homepage>
+be
+<img src="./images/second_screen.png" width="375px" alt="homepage>
