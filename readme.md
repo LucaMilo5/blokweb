@@ -43,8 +43,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Screenshot(s):**
 
 Op het eerste scherm is alles nog ingeklapt, terwijl op het tweede scherm het menu open staat.
-<img src="images/voortgang1.png" width="375px" alt="Second page">
-<img src="images/voortgang2.png" width="375px" alt="Second page">
+<img src="images/voortgang1" width="375px" alt="Second page">
+<img src="images/voortgang2" width="375px" alt="Second page">
 
 ### Agenda voor meeting
 
