@@ -47,12 +47,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
-
-| student 1: Daniel | student 2: Luca  | student 3: Jenny | student 4: Jerreau |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+Luca: - Hoe krijg ik een icoon rechtsboven in beeld / Hoe krijg ik een animatie van tekst over mijn afbeeldingen tijdens het scrollen / Hoe krijg ik een zoekbalk /
+Jenny: - Hoe moet je een slider maken?/ Hoe moet ik de blauwe lijnen die je tussendoor ziet? / Position werkt nog niet, wat doe ik fout?/
+Iconen in nav -> hoe moet ik deze vormgeven en laten werken?
+Daniel: - Hoe maak je een slider met meerdere afbeelding / Hoe krijg ik mn hamburgermenu op de juiste plaats / zoekbalk lukte niet
 
 ### Verslag van meeting
 
