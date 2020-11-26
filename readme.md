@@ -38,11 +38,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+-Ik ben aardig ver gekomen en heb het moeilijkste in mijn ogen al gehad. Mijn hamburger menu werkt en is geannimeerd.-
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+Op het eerste scherm is alles nog ingeklapt, terwijl op het tweede scherm het menu open staat.
+<img src="images/voortgang1.png" width="375px" alt="Second page">
+<img src="images/voortgang2.png" width="375px" alt="Second page">
 
 ### Agenda voor meeting
 
@@ -79,5 +81,4 @@ Daniel: - Hoe maak je een slider met meerdere afbeelding / Hoe krijg ik mn hambu
 <img src="images/homescreen.png" width="375px" alt="Homepage">
 
 **Screenshot(s) van de tweede pagina (small screen):**
-be
 <img src="images/second_screen.png" width="375px" alt="Second page">
