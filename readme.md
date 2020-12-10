@@ -30,9 +30,22 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
 
+-Ik ben verder gegaan met mijn hamburgermenu en alle kleine dingen aangepast zodat het er hetzelfde uitziet als op de pagina van 'Patta'. Ook heb ik een tweede pagina gemaakt en die gelinkt via mijn menu. Ik liep vast bij het maken van de zoekbalk. Deze week wil ik de tekst en afbeeldingen invoegen op mijn homepage..-
 
+**Screenshot(s):**
+
+<img src="images/voortgang1.png" width="375px" alt="Second page">
+<img src="images/voortgang2.png" width="375px" alt="Second page">
+
+### Agenda voor meeting
+
+-samen met je groepje opstellen-
+
+Luca: De zoekbalk is nog lastig, en luca wilt zich meer in flexbox verdiepen. 
+Jenny: Hamburgermenu werk niet goed, de position werkt niet nog optimaal.
+Daniel: Hulp met hamburgermenu of nav, zodat dit goed staat, het gele hartje lukte bij mij niet.
 
 ## Voortgang 1 (week 3)
 
@@ -57,7 +70,7 @@ Daniel: - Hoe maak je een slider met meerdere afbeelding / Hoe krijg ik mn hambu
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+-Zijn goed op weg, moet doorgaan waar ik gebleven ben en vooral veel oefenen met flexbox-
 
 
 
